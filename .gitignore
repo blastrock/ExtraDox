@@ -1,0 +1,7 @@
+/Case/Board.*
+/Case/out
+/PCB/*/*-backups
+/PCB/*/*-gerber
+/PCB/*/*-gerber.zip
+/PCB/*/ExtraDox-*.xml
+/PCB/*/ExtraDox-*.csv
