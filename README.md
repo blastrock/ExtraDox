@@ -31,15 +31,21 @@ It features:
 - 1x TRRS cable
 - 1x USB-c cable
 
-## PCB
+## About this keyboard
+
+### PCB
 
 The PCB is designed in Kicad. It is a SMD design and the project includes
 component references from JLCPCB.
 
-## Case
+### Case
 
 The case is designed to be 3D-printed. The case is screwed together with 7
 M2.5x8 screws on each side, and their corresponding bolts.
+
+### Firmware
+
+[Here](https://github.com/blastrock/qmk_firmware/tree/extradox/keyboards/extradox) is a a fork of the QMK firmware with support for the ExtraDox.
 
 ## Known issues
 
