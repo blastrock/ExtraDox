@@ -4,7 +4,7 @@
 
 The ExtraDox is a split keyboard based off the ErgoDox. The main difference is
 that it has an additional row of keys on the top. Also, it is a low-profile
-keyboard designed for Choc v2 switches.
+keyboard designed for Choc v1 switches.
 
 It features:
 
