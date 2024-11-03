@@ -15,10 +15,6 @@ It features:
 - The 3 usual status LED
 - The case is only 8mm thick, the keys are 18mm high from the desk
 
-## Buying one
-
-I have a few extra boards to sell, contact me if you are interested.
-
 ## What you need to build this keyboard
 
 - The PCBs and their components (the MCU is soldered on the main board)
